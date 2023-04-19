@@ -1,13 +1,13 @@
 <div align="center" style"border-radius:15px">
   <a href="https://discord.gg/milrato" title="Discord Server" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1093827552818241626/1097533167621124136/11111.png?width=1440&height=576" style"width: 100%;border-radius:15px">
+    <img src="https://media.discordapp.net/attachments/1098214641571725402/1098217028768239737/image_11111.png" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
 ## <div align="center">I'm Eyal, mainly a JavaScript Developer! Working since 2010 (8 Years)</div>  
 
 
-[![Discord Profile](https://media.discordapp.net/attachments/1093827552818241626/1097538273775198208/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3734383533333436353937323038303637302f3831373038383633383738303434303537392f74657374332e706e67.png)](https://discord.com/users/1093620458898866326)
+[![Discord Profile](https://media.discordapp.net/attachments/1098214641571725402/1098217610715349174/111e12.png)](https://discord.com/users/1093620458898866326)
 
 
 ### <div align="center">[Click here to view my Portfolio](https://discord.gg/cjyvjfTwKv)</div>  
@@ -48,7 +48,7 @@
 
 > Also You can always Support me by joining to **my own server** and voting in **FiveM Israel**.
 
-[![E&Y Development](https://media.discordapp.net/attachments/1093827552818241626/1097538273775198208/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3734383533333436353937323038303637302f3831373038383633383738303434303537392f74657374332e706e67.png)](https://discord.gg/cjyvjfTwKv)
+[![E&Y Development](https://media.discordapp.net/attachments/1098214641571725402/1098218283641094195/1131313.png)](https://discord.gg/cjyvjfTwKv)
 
 # Credits
 
